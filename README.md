@@ -11,5 +11,7 @@ To close sites or increase site rankings tip :
 End each site /? asdsa 
 give an example http://www.google.com/?asdsa
 
+https://github.com/666SatanIsHere666/Codes
+
 Put this code in notepad and put the site address in the changeme section
 And save all the code in html format then open the html file with your browser 20 times
